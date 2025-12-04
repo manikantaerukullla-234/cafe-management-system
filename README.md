@@ -18,4 +18,4 @@ markdown
 Copy code
 3. Menu and database are created automatically.
 👨‍💻 Author
-ERUKULLA MANIKANTA
+   CAFE MANAGEMENT SYSTEM
